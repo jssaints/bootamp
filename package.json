@@ -12,7 +12,7 @@
     "autoprefixer": "^10.1.0",
     "cssnano": "^4.1.10",
     "cssstats": "^4.0.0",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "postcss-calc": "^7.0.5",
     "postcss-cli": "^8.3.1",
     "postcss-color-function": "^4.1.0",
